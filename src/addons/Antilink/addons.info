@@ -1,0 +1,8 @@
+framework: xenshop
+name: Antilink
+version: 3.2
+author: xenshop
+description: Skyddar din discord server mot länkar och gifs
+
+mainfile: ./script/main.js
+type: addon
