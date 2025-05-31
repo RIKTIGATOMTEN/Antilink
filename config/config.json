@@ -1,0 +1,15 @@
+{
+    "enabled": true,
+    "enablelogs": true,
+    "logchannel": "",
+    "logcolor": "#7289DA",
+    "allowedRoles": [
+        ""
+],
+    "allowedUsers": [
+        ""
+    ],
+    "amountofmessagesuntiltimeout": 3,
+    "timeout": 86400000 
+  }
+  
